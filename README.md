@@ -1,2 +1,2 @@
 # Personal-Website
-A website
+A website that defines me and what i like 
